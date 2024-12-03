@@ -49,8 +49,9 @@ To run the solutions, simply execute the `main.go` file, which will run the resp
 This will execute the code and print the results for the day’s puzzles. You can modify the `main.go` file to run specific days as needed.
 
 ## 🧩 Completed Days
-| Day  | Part 1 | Part 2 | Notes |
-|------|--------|--------|-------|
-| 1    | ✅      | ✅      |       |
-| 2    | ✅      | ✅      |       |
-| ...  | 🔄      | 🔄      | Work in progress! |
+| Day | Part 1 | Part 2 | Notes             |
+|-----|--------|--------|-------------------|
+| 1   | ✅      | ✅      | Cycles            |
+| 2   | ✅      | ✅      | Slices            |
+| 3   | ✅      | ✅      | Regex             |
+| ... | 🔄      | 🔄      | Work in progress! |
