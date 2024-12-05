@@ -46,7 +46,7 @@ To run the solutions, simply execute the `main.go` file, which will run the resp
    go run main.go
    ```
 
-This will execute the code and print the results for the day’s puzzles. You can modify the `main.go` file to run specific days as needed.
+This will execute the code and print the results for the day’s puzzles.
 
 ## 🧩 Completed Days
 | Day | Part 1 | Part 2 |
