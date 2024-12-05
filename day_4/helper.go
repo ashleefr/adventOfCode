@@ -9,7 +9,7 @@ import (
 func Calculate() {
 	var grid [][]rune
 	ReadFileToGrid(&grid)
-	fmt.Println("Day 2!")
+	fmt.Println("Day 4!")
 
 	// Part 1
 	totalFoundXMAS := FindAllXMAS(grid)

@@ -56,4 +56,5 @@ This will execute the code and print the results for the day’s puzzles. You ca
 | 3   | ✅      | ✅      |
 | 3   | ✅      | ✅      |
 | 4   | ✅      | ✅      |
+| 5   | ✅      | 🔄      |
 | ... | 🔄      | 🔄      |
