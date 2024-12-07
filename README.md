@@ -56,6 +56,6 @@ This will execute the solutions and display the results for the puzzles of the d
 | 3   | ✅      | ✅      |
 | 4   | ✅      | ✅      |
 | 5   | ✅      | ✅      |
-| 6   | 🔄      | 🔄      |
+| 6   | ✅      | ✅      |
 | 7   | 🔄      | 🔄      |
 | ... | 🔄      | 🔄      |
