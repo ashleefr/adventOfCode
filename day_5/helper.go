@@ -18,8 +18,8 @@ func Calculate() {
 	totalSumOfMiddlePages := CalculateSumOfMiddlePages(rules, orders)
 	fmt.Printf("Total sum of middle pages: %d\n", totalSumOfMiddlePages)
 	//// Part 2
-	//totalSortedSumOfMiddlePages := CalculateSortedSumOfMiddlePages(rules, orders)
-	//fmt.Printf("Total sorted sum of middle pages: %d\n", totalSortedSumOfMiddlePages)
+	CalculateSumOfIncorrectMiddlePages := CalculateSumOfIncorrectMiddlePages(rules, orders)
+	fmt.Printf("Total sorted sum of middle pages: %d\n", CalculateSumOfIncorrectMiddlePages)
 }
 
 func ReadFileToTwoSlices(rules *[]string, orders *[][]int) {
